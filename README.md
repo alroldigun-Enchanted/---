@@ -17,6 +17,7 @@
 Незрячие и слабовидящие люди, использующие собаку-поводыря.
 ## Статус
 Концепция. Впервые публично описана в феврале 2026.
+https://github.com/alroldigun-Enchanted/---
 #AssistiveTechnology
 #GuideDogs
 #Accessibility
